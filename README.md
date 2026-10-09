@@ -31,3 +31,14 @@ These checks inspect saved evidence and do not retrain or repeat a fault reveal.
 Raw current signals, MAT files and original source ZIPs are kept out of Git to keep cloning practical. Download the raw-data split archive from [Releases](https://github.com/lkcfqy/motortrust-paper1/releases). The release inventory and SHA-256 checksums describe exactly what was uploaded. Raw data are also available from the official DOI links in the reproducibility guide; third-party attribution and license requirements still apply.
 
 The original code and manuscripts have no independent license declaration in the source repository. Dataset license notices do not grant a new license to project code or manuscripts.
+
+
+## Download and restore this paper's raw-data Release
+
+Download `raw-data-manifest.json` and all numbered parts from [raw-data-2026-10-09](https://github.com/lkcfqy/motortrust-paper1/releases/tag/raw-data-2026-10-09) into one folder. The committed expected manifest is [`recovery/raw-data-manifest.json`](recovery/raw-data-manifest.json). From this repository root, run:
+
+```sh
+python scripts/restore_raw_data.py --parts-dir /path/to/downloaded/assets
+```
+
+The standard-library script verifies the downloaded manifest against this repository's expected bytes, every split part, the joined archive, and every raw file before installing data under `data/raw/`. Identical existing files are skipped; different existing files are protected. The raw archive was independently verified in full; the record is [`recovery/raw_archive_verification.json`](recovery/raw_archive_verification.json). `git clone` contains code, papers, processed inputs and saved results; it does not download the raw-data assets.

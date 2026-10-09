@@ -1,0 +1,1071 @@
+{
+  "schema_version": 1,
+  "project": "MotorTrust",
+  "paper": 1,
+  "snapshot_date": "2026-10-09",
+  "source_repository": "https://github.com/lkcfqy/motortrust",
+  "source_commit": "0cbfc7e5b2868f482902f16d6d0b0c71f9d01f11",
+  "archive": {
+    "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz",
+    "format": "tar.gz",
+    "size_bytes": 14379216377,
+    "sha256": "3d6671a23985aa0a5a5e4b1565f2fa2ac5b2857ea260904744a8ab3950b374da",
+    "unpacked_size_bytes": 22434369501
+  },
+  "parts": [
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part001",
+      "size_bytes": 268435456,
+      "sha256": "76ab930099237bc0b948c53d285bf2db92fc2ee69d858abc457666dde99f7f9f"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part002",
+      "size_bytes": 268435456,
+      "sha256": "67f8bf8b38f487f3d896518ee5f866ff0f35fa1a20e72c532a530a0311c79a4e"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part003",
+      "size_bytes": 268435456,
+      "sha256": "8caf8ea739960a24640009b0e41d2bdbf5ad8674e2d3a3e8a25a593038b16dcb"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part004",
+      "size_bytes": 268435456,
+      "sha256": "27f0c8e1aa6ddd621eeefe3bb8f482db29975f8cf6d98326acf2bd390c15ac6e"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part005",
+      "size_bytes": 268435456,
+      "sha256": "d70582ccf1d8616c6be0fe68ca8b20ad36763223b4578a87bd81e3a36cb598c0"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part006",
+      "size_bytes": 268435456,
+      "sha256": "4659df91916765ef37adf56ef9ea64bdfbf340f9355673bbd74b6c361977e2a3"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part007",
+      "size_bytes": 268435456,
+      "sha256": "77547ee9aefc2d543985ca49592eb3a9131cfd5f69024b0bb9ebfba23245e8b6"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part008",
+      "size_bytes": 268435456,
+      "sha256": "ea6126e28233ccd0747009f39824c3fc2debcda1c15742d8fa576fbbcb4bee0d"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part009",
+      "size_bytes": 268435456,
+      "sha256": "1152458c62ba87e0a56a47479a5b291ba71378123f09f504f7bb0ad04281bc4c"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part010",
+      "size_bytes": 268435456,
+      "sha256": "2701d32b29409d634f5e7e6035629fd399f035adac1922fe18c064f66c9b411e"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part011",
+      "size_bytes": 268435456,
+      "sha256": "00d65cc96d45a384f82b804325f9ebf0569ba4d8e586d5e3b11de855b8cc771c"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part012",
+      "size_bytes": 268435456,
+      "sha256": "a422fd53fd0785d301c39cfe5461fef5a1f143cc1c8b7c1436dfcaebe4abed2e"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part013",
+      "size_bytes": 268435456,
+      "sha256": "1a68bea634ae4b3caa22ad02227b32d0c9eca5769492db2018be49d30a43907c"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part014",
+      "size_bytes": 268435456,
+      "sha256": "debe6c6cca05da3895614d968af24267e343e2d66bc0259f083fdb34a94a51ac"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part015",
+      "size_bytes": 268435456,
+      "sha256": "75c63badba58c30296cbccfbd8f2870148094f7b178c2b79af781a19bc3e20a2"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part016",
+      "size_bytes": 268435456,
+      "sha256": "dac0240ea29ff4f45f0fc9876fc777d9f3c952e4845f5a9e276356691b726e83"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part017",
+      "size_bytes": 268435456,
+      "sha256": "4f1c40eb8f49e02885ecc4715d78ad30ce0838141ef55bf0d4bc30902b649e2a"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part018",
+      "size_bytes": 268435456,
+      "sha256": "65d351edc24384a41ce8a3fb14467d3e3e83d9da32e762b63e503fcf84295136"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part019",
+      "size_bytes": 268435456,
+      "sha256": "d2bc1c0ea6c7f05741de5160d624b68f0d8375d0cfb5862db47c4f19f033cc7a"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part020",
+      "size_bytes": 268435456,
+      "sha256": "bbf72881b6717b1f2d4084efd0ec1927e08fc86d7bc63ff4592d40b65b9ed373"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part021",
+      "size_bytes": 268435456,
+      "sha256": "0d5c92b2b2f5763d678f4c234a6a9f60166bc0a1c89430a0da3981cb30665465"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part022",
+      "size_bytes": 268435456,
+      "sha256": "6a35a215954e0167038a678ad277ebdc8ce74d62856004d70fb51223b5ac5332"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part023",
+      "size_bytes": 268435456,
+      "sha256": "dfaa380a71c14fc87f41371981af97a7399563ccc88752b326e578c684cc1259"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part024",
+      "size_bytes": 268435456,
+      "sha256": "6c930d746fafb7864a844214a8ee03c635ac1be9a1ea12b4a18ac1cd2da4d2a9"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part025",
+      "size_bytes": 268435456,
+      "sha256": "36415c0384e86e8d494b6cb1d8adb7c554b149ca4cc845b0d1eaa896a76adb01"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part026",
+      "size_bytes": 268435456,
+      "sha256": "9d8241727e6bd5b72649eee53eb6f00234b302e16eeae8708b78fbe51814b660"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part027",
+      "size_bytes": 268435456,
+      "sha256": "0617d976da509a9637c810fb4bc5be3c894d3b675a88581e016f922f09cdaeee"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part028",
+      "size_bytes": 268435456,
+      "sha256": "97acce8e5a03e0488678a49a6fadaad7329be1aede7c655606260ab2732c44a0"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part029",
+      "size_bytes": 268435456,
+      "sha256": "99a6e1f13c29b6b8044d5f2da258c8df0ba40e876c3f43f950c1f4e750c91f32"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part030",
+      "size_bytes": 268435456,
+      "sha256": "d14bcb45f3116ead32add57c5832ac409a5f74ee3237923fa8b415102c584491"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part031",
+      "size_bytes": 268435456,
+      "sha256": "b94e2f54d9104d7d4d27844a7682644ff72b4cd153bbc2f1ac5d2691938411e5"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part032",
+      "size_bytes": 268435456,
+      "sha256": "5e81e07651bb8d89cdd44e7bfc63c4825701411edcb3fb2287f97f0949b3d23d"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part033",
+      "size_bytes": 268435456,
+      "sha256": "5af0fb518c3bc7f2a491ff4d7c5bd147fc60f851b2b0f037877b8a752430a666"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part034",
+      "size_bytes": 268435456,
+      "sha256": "c0365e47f2f4df9637bae02d5a9d8e92c8735527272486a0d7a9439d03055f30"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part035",
+      "size_bytes": 268435456,
+      "sha256": "6e20551cf72a05737205838618050c5e50766df448f973ec5569a11df367a380"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part036",
+      "size_bytes": 268435456,
+      "sha256": "3a5b415e67d69d99d2a811ca386034987fa8dd190af3313bfd9278befccf03d4"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part037",
+      "size_bytes": 268435456,
+      "sha256": "30ce4f22167ae8a34b48c892ea601fc3a7588aad4f57d29938d3ff65d5a0c487"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part038",
+      "size_bytes": 268435456,
+      "sha256": "cfb20c67a10c1bd47780b838bd2e7907a5cf88eddbdec4773894cf2c6314540a"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part039",
+      "size_bytes": 268435456,
+      "sha256": "ef00e2d74f0d4ddcc8ae3414a6b5a7a84ac69f65002ec5c65464dc900f373fde"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part040",
+      "size_bytes": 268435456,
+      "sha256": "7e58e351cbbab85968841fcaaf035e8ef9d839d4d1bf6ed814e8058d5cf979ac"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part041",
+      "size_bytes": 268435456,
+      "sha256": "f214eba79e207a0b07ad28d3539ba8260fff0d10a57aea37c25d73208bbd0262"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part042",
+      "size_bytes": 268435456,
+      "sha256": "9e6691a8370a91b5af137fc67696c4a1021b6451a71bbeab1f7e92c11c529d0e"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part043",
+      "size_bytes": 268435456,
+      "sha256": "e2ec3577e02892486d899e7278e606759384fc5d4f1692636ade8d201d38a333"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part044",
+      "size_bytes": 268435456,
+      "sha256": "d8cf32148d5b415a72490d7c40cfe55af350b37ac02f769884b8cd08499aae0d"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part045",
+      "size_bytes": 268435456,
+      "sha256": "491e31aec2e538c6c0cd419213c3af3f67335878b0262792b4ecca63eaea66e6"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part046",
+      "size_bytes": 268435456,
+      "sha256": "1f9c2b245c28cae6fed03d63458f9a9a77f10880a8c1f9ec954cd9798464f102"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part047",
+      "size_bytes": 268435456,
+      "sha256": "8f5bab5f229975a1221217d340b4a7e3130d1fcb26e0982ff7cb6603e5699213"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part048",
+      "size_bytes": 268435456,
+      "sha256": "30452ea7a80ae7374b01dac5397385a46810395b7aad10eef1bf764c64dc5459"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part049",
+      "size_bytes": 268435456,
+      "sha256": "bd5a8ac20f3b072331b2e8a15de28455ce3d02c7bae90eb1e3328ed10f31c946"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part050",
+      "size_bytes": 268435456,
+      "sha256": "74b3b3a33c8d228aaf57fd0faf46e127067105402d5a73fb4da3cde420b9def6"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part051",
+      "size_bytes": 268435456,
+      "sha256": "b436399cf07a4054d3d8be130b2e2367f0ca5451f5eedeec460136df23c7c001"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part052",
+      "size_bytes": 268435456,
+      "sha256": "a7d20c6053e3dcc551bfb34ac79b20523c450bdf90bb4a86193b6bd6948549fc"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part053",
+      "size_bytes": 268435456,
+      "sha256": "507be9b7ec2148b4d920f56fd9edc757783e45c3b7ec941a7249a98fd454112e"
+    },
+    {
+      "filename": "motortrust-paper1-raw-data-2026-10-09.tar.gz.part054",
+      "size_bytes": 152137209,
+      "sha256": "6bfef7242ccf84ae2f6b40a97bd831c183c9ece4ee57ba6bf967cca3ef05dd7e"
+    }
+  ],
+  "files": [
+    {
+      "path": "data/raw/kaist_faults/1.0kW.zip",
+      "size_bytes": 1770532508,
+      "sha256": "3a7f64626b40cf7be46a220fabe4e62496b0a2700d0919bcf7f1205c97fa15aa"
+    },
+    {
+      "path": "data/raw/kaist_faults/1.5kW.zip",
+      "size_bytes": 2542599644,
+      "sha256": "5bb090bd7944974a9bcfa9e192e840e61d1bad561172b621670f7f4f8776c524"
+    },
+    {
+      "path": "data/raw/kaist_faults/3.0kW.zip",
+      "size_bytes": 2660445808,
+      "sha256": "6cfd069bc23e9404b0dd0e9f46da1b773ef41c5370f6c8dbcde99de754008545"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_0_00_current_intercoil.tdms",
+      "size_bytes": 288031293,
+      "sha256": "da1c271d17066e25f7fba41a9fbd3a2a8c90614e42d8c8bd53d3be4f7f3e2a75"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_13_12_current_intercoil.tdms",
+      "size_bytes": 288031131,
+      "sha256": "6fa796c6533c1f41494ed4b7dda770e33ecc531858642bb881686f36ddff4a98"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_16_08_current_interturn.tdms",
+      "size_bytes": 288031133,
+      "sha256": "c8f470074863ba35093648efd08303e0a2d587ff6e71db39b28511282437b531"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_1_57_current_interturn.tdms",
+      "size_bytes": 323308345,
+      "sha256": "210d8513f8cdf2e0f828d09952edfe6ddcc09f04589f2e85acd7fa01f7784287"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_1_88_current_interturn.tdms",
+      "size_bytes": 298826433,
+      "sha256": "8d71ce1ca466bd6e2e9d94fd79ba4b7fec765b42eb7fda3a0a1a346447aa0c0c"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_23_20_current_intercoil.tdms",
+      "size_bytes": 319230386,
+      "sha256": "2ea2ab3c9b98bdbbf455b4eb5b9ef752517255a55b39053f94123422ea1011b2"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_2_34_current_interturn.tdms",
+      "size_bytes": 288031197,
+      "sha256": "4fc2c5f932e9101dbd2c00d1251bffa1cecceca2c4fe2ed57ea5f373070f62bc"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_37_66_current_intercoil.tdms",
+      "size_bytes": 288031229,
+      "sha256": "5ec5cc39ba99ca8c611ad58e240908f125fb8a007cd51ef926cf71c15a1da571"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_3_10_current_interturn.tdms",
+      "size_bytes": 333149083,
+      "sha256": "97c1211e5905c1ac36ad05e5b6678fcbdc1c833135ce242279c27fad99eae051"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_4_57_current_interturn.tdms",
+      "size_bytes": 288031293,
+      "sha256": "c23d9fa24b87335f4de738bc436015744d4e95dd15905fb4a91cd65bf3d3a48d"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_4_79_current_intercoil.tdms",
+      "size_bytes": 300266528,
+      "sha256": "ab2356b10458a8c2961b4b08090c317ab44f5c1685da46f1d9c9872eeba0a18d"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_5_70_current_intercoil.tdms",
+      "size_bytes": 339149672,
+      "sha256": "7bf15e787fc560e626f49e36b07800e885eb5ecb73ebac75f626cb8e1b58b5ec"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_7_02_current_intercoil.tdms",
+      "size_bytes": 288031131,
+      "sha256": "476973f629ab30d61bb2492762cf646032bc6b6545b7227f86daa32bdd23674e"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_8_74_current_interturn.tdms",
+      "size_bytes": 291625771,
+      "sha256": "7e1dbcd239cfe00ef56b84f535d83e5713369c2f1af50c8d125120755c842000"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1.5kW/1500W_9_15_current_intercoil.tdms",
+      "size_bytes": 304826714,
+      "sha256": "a52845b353fe7f1f900ccad25f476d3f97898af8963ba50e56f8dd4324dfd1d6"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_0_00_current_intercoil.tdms",
+      "size_bytes": 288031292,
+      "sha256": "e6cc5f456176014f5f7a642db25d58b007497f54e2fe0f4d7305711de7606838"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_0_00_current_interturn.tdms",
+      "size_bytes": 288031292,
+      "sha256": "e6cc5f456176014f5f7a642db25d58b007497f54e2fe0f4d7305711de7606838"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_0_68_current_intercoil.tdms",
+      "size_bytes": 293306052,
+      "sha256": "bd22be882dc062e3aaa6a757b1d4f6d8e841ec5e372980dc59fe53a4c1ce9a9e"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_0_81_current_intercoil.tdms",
+      "size_bytes": 301946436,
+      "sha256": "55b85a4adac3b3049ef5040735f2c23e0b488c4dc2af0259bec40778412f5159"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_1.01_current_intercoil.tdms",
+      "size_bytes": 288031291,
+      "sha256": "6c1f09593fdb7c7994b903e946fc3307d6fe9e234e6a8c7e6df2510b1a8ef89a"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_12_17_current_interturn.tdms",
+      "size_bytes": 293306033,
+      "sha256": "8bb6f42fedbd049d9f0aa4151ebe505c36882084c25eab9ee600930bb0547975"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_1_34_current_intercoil.tdms",
+      "size_bytes": 358351254,
+      "sha256": "0993d376d4b7ba50fbf262eb53e665f936f9bc9afb4a905b93c6313d365166c3"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_21_69_current_interturn.tdms",
+      "size_bytes": 288031198,
+      "sha256": "e6e12717cd3142929ac60cdc3986299460ba43462f5711ceebf43fe4be3937e0"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_2_00_current_intercoil.tdms",
+      "size_bytes": 288031291,
+      "sha256": "07e40122a5723145420d2da8f44fc23b93c2bd21cdd7beab7e824d1af32b8b20"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_2_26_current_interturn.tdms",
+      "size_bytes": 296906111,
+      "sha256": "e84b68723ae8ac34e908650f9e800e72dedf97cec752d61ad9790c9121b7130a"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_2_70_current_interturn.tdms",
+      "size_bytes": 296426231,
+      "sha256": "182dab1bcf9e8bd3a63c361791922b3294cbbe4ac2ece81520b2afcd5eee3026"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_3_35_current_interturn.tdms",
+      "size_bytes": 288031291,
+      "sha256": "776d2f9c9cf41208b054570de5a4bdaf020bcf470cf161db6972c6ea612faf3d"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_3_93_current_intercoil.tdms",
+      "size_bytes": 322348296,
+      "sha256": "9483727056e7c32e7de62fa87a6461b7993a96f3a166f672d21f9a11ba28c11d"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_4_41_current_interturn.tdms",
+      "size_bytes": 321148235,
+      "sha256": "ab4782f553b4da6e45d4a3a37f07e0f6b32e6d4e5466cb1d80f33731cd47084f"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_6_48_current_interturn.tdms",
+      "size_bytes": 288031292,
+      "sha256": "a7b74e40a5a49db118e3d2dc20175db680d24d714168a2f9500b4536262ab938"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/1kW/1000W_7_56_current_intercoil.tdms",
+      "size_bytes": 288031131,
+      "sha256": "f3df11b9728d49ba09d91c3dbc7d314ff1aea3122625ac20011e421d1e71d75a"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_0_00_current_intercoil.tdms",
+      "size_bytes": 288031293,
+      "sha256": "436dc0f88b9cb94ab639edf87314158a561dcd86ad40c25759aabeeb41aebae8"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_13_30_current_intercoil.tdms",
+      "size_bytes": 288031287,
+      "sha256": "b70d650a6f251b68a7ce7c2897af47daa01eb478c73467dece99cc8672d2f023"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_17_86_current_interturn.tdms",
+      "size_bytes": 288031227,
+      "sha256": "54b4eca7461e1c41d2361e76d8884b48601b2ab5e371060369e98e195260a03a"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_1_78_current_interturn.tdms",
+      "size_bytes": 330268907,
+      "sha256": "03b7054aa37709ff38f68f085798292bd530848d2a481628b076b31af068e3d6"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_23_48_current_intercoil.tdms",
+      "size_bytes": 288031222,
+      "sha256": "d09d66c4fdc7e93640b45af610ca7da0b63228b05ad0896da185a82b97185500"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_2_13_current_interturn.tdms",
+      "size_bytes": 330268961,
+      "sha256": "1fda3b56b3fdd1d405b592ac072216085fe4d4c1dc36650bb9ec09dee06da9ff"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_2_49_current_intercoil.tdms",
+      "size_bytes": 288031191,
+      "sha256": "01411aae2ecfe52e6015662934f1eb36605c7248640651d72d6b05639a9a60f9"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_2_65_current_interturn.tdms",
+      "size_bytes": 288031291,
+      "sha256": "63ce188ac4cae346a93d00f5cf609e6ee127743bce7c9ee10a126347dff27461"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_2_98_current_intercoil.tdms",
+      "size_bytes": 288031287,
+      "sha256": "fd9dee5ab8779d5a91d669b3256903c5bfaa70fdecff0de6ec455fa34196c963"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_3_50_current_interturn.tdms",
+      "size_bytes": 321148235,
+      "sha256": "3293c60bddbf9171e7ed7f159e147a680854da14221b003ade205759718c04d4"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_3_69_current_intercoil.tdms",
+      "size_bytes": 288031155,
+      "sha256": "257087017730261c353451570c8e29bca31c4119bd358b56749f971a110aa347"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_4_86_current_intercoil.tdms",
+      "size_bytes": 288031287,
+      "sha256": "35b9fdb1d0918db602b7e5154cd299dca9d2d0c20a925dce5b9cab0eacc63e00"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_5_16_current_interturn.tdms",
+      "size_bytes": 288031225,
+      "sha256": "622ac05721848ab1fa5ee20cc7e8a23b4cc2bfcd8e0f93babfb62a8f8f687716"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_7_12_current_intercoil.tdms",
+      "size_bytes": 288031221,
+      "sha256": "00d48598bbdbbe506f6172cd267bf1b8ed43aa4feb4e93476eb08c93976f5e33"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/3kW/3000W_9_81_current_interturn.tdms",
+      "size_bytes": 307947101,
+      "sha256": "63d8d450d1116225eca97c9b81fea4f3265cbd64d47bc358aa8fa7260e9186d1"
+    },
+    {
+      "path": "data/raw/kaist_faults/current_tdms/records.json",
+      "size_bytes": 18023,
+      "sha256": "a6b2c7f58d56422ec32bbe09ed949bf3ca7f7f087eb124099fdd21e7882f4cf9"
+    },
+    {
+      "path": "data/raw/kaist_faults/download_manifest.json",
+      "size_bytes": 438,
+      "sha256": "ec699e581b202881744955113aacd8b04867d5ee8942fa31dd7934e922412c79"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt0z_0NM.mat",
+      "size_bytes": 21868833,
+      "sha256": "84febf7d90621a0875d4f55f3193d9e6206717e2a3874df8223dcd1983ca0bfd"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt0z_10NM.mat",
+      "size_bytes": 23137277,
+      "sha256": "c51ce9eb691404e1bc649fabd822ca829acf2c8958c42e33e96fb9215089994b"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt0z_15NM.mat",
+      "size_bytes": 23389914,
+      "sha256": "4d19fe5014b4b0a484a3691837c7860d7e63851ba4c342cdeef4d5593bbaa240"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt0z_20NM.mat",
+      "size_bytes": 23719364,
+      "sha256": "b52260abd7958d5e41a4d1d8d72382a27b1ac0d284bc71679c5435f6e6cab026"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt0z_25NM.mat",
+      "size_bytes": 23893309,
+      "sha256": "71fd7681a9a85f809b72261f19dda70b71a18591b28c053930a32711a6344b89"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt0z_30NM.mat",
+      "size_bytes": 24131649,
+      "sha256": "3d48d05b84698cd4fb1debde0ebe1b7f8238251b0a5b3a2e9ad91f61e6c716bf"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt0z_35NM.mat",
+      "size_bytes": 24343441,
+      "sha256": "519b840685b9f885fff5496bf8f61c70e442be0b5123bc98f32fa82b2d73e982"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt0z_5NM.mat",
+      "size_bytes": 22627512,
+      "sha256": "396c1daaeba15c7eac88d3ae53756d7c674784226ed565da0c6ac2b73aecf682"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt1zu_0NM.mat",
+      "size_bytes": 22214879,
+      "sha256": "7bad141224b7a6df2b10189c13795deeb263ead3acd59b3389f05b83c01de301"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt1zu_10NM.mat",
+      "size_bytes": 23191605,
+      "sha256": "6f853d9ff874d7d1b82d66ebaa54b80cb59b5243783204364cf28bdb6a9ce04d"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt1zu_15NM.mat",
+      "size_bytes": 23494930,
+      "sha256": "151defde0140cadd3369aa6ff10d393239a7a0fa721f7808c8e593054b9c0885"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt1zu_20NM.mat",
+      "size_bytes": 23823385,
+      "sha256": "409d0a9f4ba161002b667bf46676be448f85db1d58bd27db245b22297baf103c"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt1zu_25NM.mat",
+      "size_bytes": 24007329,
+      "sha256": "30e9163ac05c16e4bc4707dfe04a900dfe9f4a2c4f0a04b6ce35e6d19c227884"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt1zu_30NM.mat",
+      "size_bytes": 24223820,
+      "sha256": "f23b00eebaf015a7b375a6dba6e1e3f12c188a45c0a3d332b6f8626a338ef997"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt1zu_35NM.mat",
+      "size_bytes": 24432504,
+      "sha256": "a644d5eb6abc6a54157a9d417569fa1d540bb2ad5b422da0a5e242e83ec2ad86"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt1zu_5NM.mat",
+      "size_bytes": 22697244,
+      "sha256": "ac29c594ce7f56bb70200568d9f201cdbab07df76ac7cfc033be0bb4328d3c01"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt2zv_0NM.mat",
+      "size_bytes": 22188808,
+      "sha256": "8156be071bf27ddf0aaf4e4da3db6c8a11cbba2c5085f3b02abd3f2470297e00"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt2zv_10NM.mat",
+      "size_bytes": 23280090,
+      "sha256": "c20c32298eadfb6c4258a235ecdf84e9503558eae7c6beee05dca9f919609a2d"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt2zv_15NM.mat",
+      "size_bytes": 23597084,
+      "sha256": "264d09f979fe712ab8f09e620a0134eb0eedaaccfefedf1a842da8dcf0c0b47a"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt2zv_20NM.mat",
+      "size_bytes": 23892585,
+      "sha256": "6623f839175e6ef6ddaf58843500de743b6da0128a43eee625e6b9182bdf0be0"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt2zv_25NM.mat",
+      "size_bytes": 24101861,
+      "sha256": "6dfe1867fb43685dc4308c319f6dd0196e3b43add127221637d44688d03a91a5"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt2zv_30NM.mat",
+      "size_bytes": 24328461,
+      "sha256": "74bba23e658069155bb2175607044f762d28d56c3722c48a4e76fdc4fac53e39"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt2zv_35NM.mat",
+      "size_bytes": 24542317,
+      "sha256": "0bad298198e592e48cf59d21b17ea6b6d583e49f64a4d41846347b9f7689533b"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt2zv_5NM.mat",
+      "size_bytes": 22798693,
+      "sha256": "75c98ad0c0f481f72affe35c3d1cb04f69c26ab198a210092e8707a920959707"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt3zu_0NM.mat",
+      "size_bytes": 22300306,
+      "sha256": "4c73e0b90b0b6092f7ab3791408d28d8f00587d31816f294719b9eac460a410e"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt3zu_10NM.mat",
+      "size_bytes": 23321135,
+      "sha256": "4fcd8768a5b61bd5c636297b77d82db55355a137050dc863530bc65c2aff52fb"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt3zu_15NM.mat",
+      "size_bytes": 23665820,
+      "sha256": "b6c1eb67e9fc5606a56a30001d9a77fe6b3160c11f1332430e871362b2b5edab"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt3zu_20NM.mat",
+      "size_bytes": 23956814,
+      "sha256": "9041be3c6df8efdc6126716a611265f88e30c749fb4f0673cb926e85885f4a12"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt3zu_25NM.mat",
+      "size_bytes": 24168362,
+      "sha256": "790860d538edf433ab28e1529d5fed620a5f6f63d5e984b047425d12073edcd5"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt3zu_30NM.mat",
+      "size_bytes": 24397179,
+      "sha256": "959fb3e9a7b2bf89649c1ef5127f93fdf55856299e55c578df5e927550120286"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt3zu_35NM.mat",
+      "size_bytes": 24578838,
+      "sha256": "9f447194c6e57509ebfd8da1703af944feb9ab94bcd528b028434ad479f34c94"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt3zu_5NM.mat",
+      "size_bytes": 22879267,
+      "sha256": "610101e665f63dd0aa110420af65733a08f17c541ac24d17def30eefb47658ba"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt4zv_0NM.mat",
+      "size_bytes": 22235891,
+      "sha256": "07f36ccdc44d5be409580d14fdb38fb3f533db2fb4892b1c1e3e86be62009e98"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt4zv_10NM.mat",
+      "size_bytes": 23337217,
+      "sha256": "9cde19a0b564e618ba066f9a4111465abaa3ebd75d9177e7cf66054f094c2ebe"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt4zv_15NM.mat",
+      "size_bytes": 23679565,
+      "sha256": "06fba94c03b471360bd50b47f1e41aa7f7ceca4ffb558c8a3373caceff0d9baa"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt4zv_20NM.mat",
+      "size_bytes": 23953844,
+      "sha256": "71344b0580fe86ccffc1689a2e92be680a96cdb93b204032e8c1e0d03922169e"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt4zv_25NM.mat",
+      "size_bytes": 24186339,
+      "sha256": "b6d72a68c3f84fc71a982c3d2fe8c0dae02fd0b9be875ed922bed490698e46af"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt4zv_30NM.mat",
+      "size_bytes": 24415967,
+      "sha256": "28e8a4c0793c3c3dc44583b715d6371d3f415c08d0ba12eb56821c9e67890da8"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt4zv_35NM.mat",
+      "size_bytes": 24640530,
+      "sha256": "812fe2a9f9e870424eccfc373b6672ca00145e1d4c8d9341fd7fc7f4848f28fe"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt4zv_5NM.mat",
+      "size_bytes": 22884322,
+      "sha256": "9f1ea692bd2a9d2a40d75d775230ebe2a0a0be00cc097093ec985e2e1015d9d2"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt5zu_0NM.mat",
+      "size_bytes": 22213989,
+      "sha256": "f68330d2f9588b79c57852169aae1ebc57ae4437dfd6a3ffe7262add036cb4d7"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt5zu_10NM.mat",
+      "size_bytes": 23349554,
+      "sha256": "eea36a2b43285894e7acea95caedf700292fa52e274949b62599dbdbac6f8f4b"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt5zu_15NM.mat",
+      "size_bytes": 23713188,
+      "sha256": "248332378f316d7f8f8a4a065fb86cb56663dc0321c8f18dcca1baabf9dcaf78"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt5zu_20NM.mat",
+      "size_bytes": 24011117,
+      "sha256": "6d80076a67ed9cee5b5e6496ffed72150fb792f57e1cda5faff1c8bd1e509351"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt5zu_25NM.mat",
+      "size_bytes": 24257415,
+      "sha256": "b69d764c70005c0f5b1ca849b5ce4e0c76dbaf2f66e9a3688e54534a5f31200a"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt5zu_30NM.mat",
+      "size_bytes": 24476318,
+      "sha256": "5ac5c2995a16b5a053c1be6d2479704be7fafb353141d89161c967ac067e4c05"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt5zu_35NM.mat",
+      "size_bytes": 24684124,
+      "sha256": "0b4b6b9a9e3e5991c146efd865cf99b4e17038dc5724fa56f3ed7077c875bc01"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt5zu_5NM.mat",
+      "size_bytes": 22857940,
+      "sha256": "d165b0c696ffa6c958d500690d63a71bcb8f07e1f20e166a480571ddf7db1c00"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt6zu_0NM.mat",
+      "size_bytes": 22223615,
+      "sha256": "1c83559a722059b8d370bc741e352c9ed5e50c6aed5fd22834a753b42c939f96"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt6zu_10NM.mat",
+      "size_bytes": 23365318,
+      "sha256": "66a9687dff620292c59caea546aa583294875fb2fbc687aa0e7d78f9dbf4194c"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt6zu_15NM.mat",
+      "size_bytes": 23744847,
+      "sha256": "546d909a147307155b7e508cdeb6415d19fdebb41fba914031a70b3842d8cacf"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt6zu_20NM.mat",
+      "size_bytes": 24023745,
+      "sha256": "a4972ad29f5ac4da6333638e98193ded56c3b196814ae0e865db05cb08caeb27"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt6zu_25NM.mat",
+      "size_bytes": 24279617,
+      "sha256": "1fc54fe8dce5deb9244a7c99dcddc98406f2424fb7441120f8a45b28979cdd87"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt6zu_30NM.mat",
+      "size_bytes": 24489604,
+      "sha256": "27f9a8934c90f47380a8a4e731c92382ecd786f34469697d87b841633425546c"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt6zu_35NM.mat",
+      "size_bytes": 24715749,
+      "sha256": "de48422215bedf0af15afa795ecf2ee41967e427ce1b07063354afaa0dd051c4"
+    },
+    {
+      "path": "data/raw/external_validation/dual_three_phase_health/spd10-5000rpm_flt6zu_5NM.mat",
+      "size_bytes": 22869379,
+      "sha256": "71bc4503b867b2013e84e340ecbe4cd25264d6361c064b3425ed596ffc46c7e7"
+    },
+    {
+      "path": "data/raw/external_validation/fault_reveal_plan.json",
+      "size_bytes": 16827,
+      "sha256": "26b89a9e91119b6234f513b645877c67560a80a7b185a0f6774381d196f5a9fb"
+    },
+    {
+      "path": "data/raw/external_validation/staged_download_manifest.json",
+      "size_bytes": 19879,
+      "sha256": "bdca4f53a840ab74669ae5269617e2221e402489bb9ebfb59d1014e190114128"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/OpenData.zip",
+      "size_bytes": 91533036,
+      "sha256": "1d343cd3636ea28c80cc847f4fb3bc619b41a37db69d0f30adab082724a2c81b"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/200Wmotor/load_transient_1000_4turns.mat",
+      "size_bytes": 4305247,
+      "sha256": "c2118bc882ba34da2acead87463d4301c3fb63650f7591413aabe0c55834455e"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/200Wmotor/load_transient_1200_2turns.mat",
+      "size_bytes": 4229293,
+      "sha256": "79fb99e90031d5d527ec3e485139b66f32f88c963bfd6e2c1a68effe92a5a21b"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/200Wmotor/load_transient_1200_4turns.mat",
+      "size_bytes": 4278376,
+      "sha256": "7af1da7b956eba815ae0ae3d25a59c3c86270e80d2f9617e9ff62f173cbafa6c"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/200Wmotor/load_transient_1200_6turns.mat",
+      "size_bytes": 4269958,
+      "sha256": "88eb14ec80a711c820807abc81d9cd2aa82d9040fd5327d8b726a86e2487faad"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/200Wmotor/steady_state_1000_4turns.mat",
+      "size_bytes": 4244079,
+      "sha256": "351b4bbf7846ce129212f690b174283be65533a5d04da607fe8f7781c980770a"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/200Wmotor/steady_state_1200_2turns.mat",
+      "size_bytes": 4120920,
+      "sha256": "18528b4c0f8d6b849777fbf05450a0481b3ac5f1473f1b59a485ca19703fd93e"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/200Wmotor/steady_state_1200_4turns.mat",
+      "size_bytes": 4164024,
+      "sha256": "053073865084b1f1ad11cecca7f25db69ad54b9ea384acdc9064278f97d92fad"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/200Wmotor/steady_state_1200_6turns.mat",
+      "size_bytes": 4200986,
+      "sha256": "bcae6be50d22cf932d511588801135c14f5ff68cafc0ead90fae1908277dc8d3"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/200Wmotor/velocity_transient_1000_4turns.mat",
+      "size_bytes": 4277394,
+      "sha256": "566ff59acbad2efd5befe045b19151e18f64dad21d6b965aa8c341b94ed40d17"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/200Wmotor/velocity_transient_1200_2turns.mat",
+      "size_bytes": 4166105,
+      "sha256": "3ce743be515573f2f405df47d1d04da65ad2935f6d866f1ef2532f35104e58a4"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/200Wmotor/velocity_transient_1200_4turns.mat",
+      "size_bytes": 4201024,
+      "sha256": "52b0a56c7dc2fb73848b494f176311773606d4dd93dc603f2f59291d943849a4"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/200Wmotor/velocity_transient_1200_6turns.mat",
+      "size_bytes": 4217359,
+      "sha256": "25723aeb6a9ae54fbee681577b046f8e11e00fd57f8955ee927ffe3ed873279e"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/20kWmotor/load_transient_1000_1turn.mat",
+      "size_bytes": 5310360,
+      "sha256": "de4107dd174e223e6ac5308ed8b3c5cc721e2916dd18692dd683d982fe66104f"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/20kWmotor/load_transient_1000_2turns.mat",
+      "size_bytes": 5299584,
+      "sha256": "08efb90e050fd151973dd8630a44a01e4aab8df0e188057d8e5bece489ed210e"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/20kWmotor/load_transient_1000_3turns.mat",
+      "size_bytes": 5322408,
+      "sha256": "66e3af7465980c7e6ca6db2daf9c814be5af8f66afb556b2dd05ecd673595c38"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/20kWmotor/steady_state_1000_1turn.mat",
+      "size_bytes": 4175694,
+      "sha256": "e587c3d60e6d06226a7407897970e1607d4f6615ebbf123cf5a211c774d21fe0"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/20kWmotor/steady_state_1000_2turns.mat",
+      "size_bytes": 4172245,
+      "sha256": "5944120c0588bc320500ee4ce48db9f85de68128f5e100cfbbf02e96ae670fb1"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/20kWmotor/steady_state_1000_3turns.mat",
+      "size_bytes": 4187281,
+      "sha256": "257b1fb3a98d71060f5b9645c8742a091968b8bdcd73ba15e207d7e495ea6fb5"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/20kWmotor/velocity_transient_1000_1turn.mat",
+      "size_bytes": 4136287,
+      "sha256": "25c9761f307f2557721c804fce6da17ca302d18e552d3229bc390325aefadc34"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/20kWmotor/velocity_transient_1000_2turns.mat",
+      "size_bytes": 4165581,
+      "sha256": "83c23c640c99164ad65a783ac67996146d599db75aa4c61b425562fc5f889473"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/20kWmotor/velocity_transient_1000_3turns.mat",
+      "size_bytes": 4201258,
+      "sha256": "154064f9d9ea670f20afb626ef535f6f705ecaeb278c74f6e898464b1ebaf58f"
+    },
+    {
+      "path": "data/raw/external_validation/transient_cross_capacity/extracted/OpenData/README.txt",
+      "size_bytes": 4306,
+      "sha256": "3ff2d62a5fd527cf92ce4e023e35cc592ac2ce6a7606be6cbf802148d55577ce"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/OpenData.zip",
+      "size_bytes": 91533036,
+      "sha256": "1d343cd3636ea28c80cc847f4fb3bc619b41a37db69d0f30adab082724a2c81b"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/200Wmotor/load_transient_1000_4turns.mat",
+      "size_bytes": 4305247,
+      "sha256": "c2118bc882ba34da2acead87463d4301c3fb63650f7591413aabe0c55834455e"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/200Wmotor/load_transient_1200_2turns.mat",
+      "size_bytes": 4229293,
+      "sha256": "79fb99e90031d5d527ec3e485139b66f32f88c963bfd6e2c1a68effe92a5a21b"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/200Wmotor/load_transient_1200_4turns.mat",
+      "size_bytes": 4278376,
+      "sha256": "7af1da7b956eba815ae0ae3d25a59c3c86270e80d2f9617e9ff62f173cbafa6c"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/200Wmotor/load_transient_1200_6turns.mat",
+      "size_bytes": 4269958,
+      "sha256": "88eb14ec80a711c820807abc81d9cd2aa82d9040fd5327d8b726a86e2487faad"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/200Wmotor/steady_state_1000_4turns.mat",
+      "size_bytes": 4244079,
+      "sha256": "351b4bbf7846ce129212f690b174283be65533a5d04da607fe8f7781c980770a"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/200Wmotor/steady_state_1200_2turns.mat",
+      "size_bytes": 4120920,
+      "sha256": "18528b4c0f8d6b849777fbf05450a0481b3ac5f1473f1b59a485ca19703fd93e"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/200Wmotor/steady_state_1200_4turns.mat",
+      "size_bytes": 4164024,
+      "sha256": "053073865084b1f1ad11cecca7f25db69ad54b9ea384acdc9064278f97d92fad"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/200Wmotor/steady_state_1200_6turns.mat",
+      "size_bytes": 4200986,
+      "sha256": "bcae6be50d22cf932d511588801135c14f5ff68cafc0ead90fae1908277dc8d3"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/200Wmotor/velocity_transient_1000_4turns.mat",
+      "size_bytes": 4277394,
+      "sha256": "566ff59acbad2efd5befe045b19151e18f64dad21d6b965aa8c341b94ed40d17"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/200Wmotor/velocity_transient_1200_2turns.mat",
+      "size_bytes": 4166105,
+      "sha256": "3ce743be515573f2f405df47d1d04da65ad2935f6d866f1ef2532f35104e58a4"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/200Wmotor/velocity_transient_1200_4turns.mat",
+      "size_bytes": 4201024,
+      "sha256": "52b0a56c7dc2fb73848b494f176311773606d4dd93dc603f2f59291d943849a4"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/200Wmotor/velocity_transient_1200_6turns.mat",
+      "size_bytes": 4217359,
+      "sha256": "25723aeb6a9ae54fbee681577b046f8e11e00fd57f8955ee927ffe3ed873279e"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/20kWmotor/load_transient_1000_1turn.mat",
+      "size_bytes": 5310360,
+      "sha256": "de4107dd174e223e6ac5308ed8b3c5cc721e2916dd18692dd683d982fe66104f"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/20kWmotor/load_transient_1000_2turns.mat",
+      "size_bytes": 5299584,
+      "sha256": "08efb90e050fd151973dd8630a44a01e4aab8df0e188057d8e5bece489ed210e"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/20kWmotor/load_transient_1000_3turns.mat",
+      "size_bytes": 5322408,
+      "sha256": "66e3af7465980c7e6ca6db2daf9c814be5af8f66afb556b2dd05ecd673595c38"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/20kWmotor/steady_state_1000_1turn.mat",
+      "size_bytes": 4175694,
+      "sha256": "e587c3d60e6d06226a7407897970e1607d4f6615ebbf123cf5a211c774d21fe0"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/20kWmotor/steady_state_1000_2turns.mat",
+      "size_bytes": 4172245,
+      "sha256": "5944120c0588bc320500ee4ce48db9f85de68128f5e100cfbbf02e96ae670fb1"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/20kWmotor/steady_state_1000_3turns.mat",
+      "size_bytes": 4187281,
+      "sha256": "257b1fb3a98d71060f5b9645c8742a091968b8bdcd73ba15e207d7e495ea6fb5"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/20kWmotor/velocity_transient_1000_1turn.mat",
+      "size_bytes": 4136287,
+      "sha256": "25c9761f307f2557721c804fce6da17ca302d18e552d3229bc390325aefadc34"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/20kWmotor/velocity_transient_1000_2turns.mat",
+      "size_bytes": 4165581,
+      "sha256": "83c23c640c99164ad65a783ac67996146d599db75aa4c61b425562fc5f889473"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/20kWmotor/velocity_transient_1000_3turns.mat",
+      "size_bytes": 4201258,
+      "sha256": "154064f9d9ea670f20afb626ef535f6f705ecaeb278c74f6e898464b1ebaf58f"
+    },
+    {
+      "path": "data/raw/transient_cross_capacity/extracted/OpenData/README.txt",
+      "size_bytes": 4306,
+      "sha256": "3ff2d62a5fd527cf92ce4e023e35cc592ac2ce6a7606be6cbf802148d55577ce"
+    }
+  ],
+  "excluded_paths": [],
+  "notes": [
+    "Only locally present raw dataset files are included.",
+    "Nested Git metadata, symlinks and caches are excluded.",
+    "Dataset licenses and attribution remain applicable.",
+    "No experiments were rerun or frozen results replaced."
+  ]
+}
