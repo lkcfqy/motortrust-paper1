@@ -1,0 +1,232 @@
+{
+  "cover_letter_sha256": "b07dd5fd30b241e693bb1a8e40c299079aeb322f85098544bc268d4281d0b500",
+  "figures": [
+    {
+      "caption": "Motor holdout, sequential target-health split, and method flow",
+      "number": 1,
+      "pdf": "Fig1.pdf",
+      "pdf_sha256": "a05056bb5409069c6cbbdefaf202b640a11b9ce9723754e32ed708a83299c46b",
+      "png": "Fig1.png",
+      "png_dpi": 299.999,
+      "png_pixels": [
+        2524,
+        1294
+      ],
+      "png_sha256": "5af8c92dc606190f24b9a18d40122baa3600b7715d868b0128d87958742eeeea"
+    },
+    {
+      "caption": "Per-motor detection and healthy false-alarm intervals",
+      "number": 2,
+      "pdf": "Fig2.pdf",
+      "pdf_sha256": "1c5735810a3230fb25514cf040468680a1a5777c5a99514490753cbfe63dcd0f",
+      "png": "Fig2.png",
+      "png_dpi": 299.999,
+      "png_pixels": [
+        2434,
+        960
+      ],
+      "png_sha256": "52e5727c015913c2271259f24bca0803fcfab8f6665ed5897651c5d114338db3"
+    },
+    {
+      "caption": "Record-level paired detection-rate differences between the Log-Euclidean entity detector and each covariance comparator. Points are mean paired differences and bars are 95% percentile intervals from 10,000 motor-stratified fault-record bootstrap replicates over the 42 available KAIST fault records; positive values favor the Log-Euclidean detector.",
+      "number": 3,
+      "pdf": "Fig3.pdf",
+      "pdf_sha256": "dbbfff4dc9ab0e618b5a62abb9a7bd3058f30bfef1b4572af8553453dcfe3c93",
+      "png": "Fig3.png",
+      "png_dpi": 299.999,
+      "png_pixels": [
+        1894,
+        784
+      ],
+      "png_sha256": "55275438b012ae5d780020e33cab258ee78eae8eb1a17e040ae899d2d2bdc74d"
+    },
+    {
+      "caption": "Record-level paired detection-rate differences between the proposed detector and the strong one-class baselines. Points are mean paired differences and bars are 95% percentile intervals from 10,000 motor-stratified fault-record bootstrap replicates over the 42 available KAIST fault records; positive values favor the proposed detector. Parenthetical FA labels report false alarms among the 42 later-health blocks.",
+      "number": 4,
+      "pdf": "Fig4.pdf",
+      "pdf_sha256": "cae6ba7a5de1e8ae1187c8b9d13fe596cf8780a0960437c3add5abc765d2dbc3",
+      "png": "Fig4.png",
+      "png_dpi": 299.999,
+      "png_pixels": [
+        2074,
+        934
+      ],
+      "png_sha256": "2a8dbcfea148e8a731f1be61f85b87907e9038fccb5d709f40556e8194e7d541"
+    },
+    {
+      "caption": "Adaptation-budget sensitivity and calibration feasibility",
+      "number": 5,
+      "pdf": "Fig5.pdf",
+      "pdf_sha256": "62f7c48167f2b0ed0cb8bc101f0f380fc516810757310d90525a830c90c1dbaa",
+      "png": "Fig5.png",
+      "png_dpi": 299.999,
+      "png_pixels": [
+        2284,
+        904
+      ],
+      "png_sha256": "faa1f146ae0e76c8f5be7ecdcb4f2b0e4b59db403dea7421f307d03f7d74f1af"
+    },
+    {
+      "caption": "Block-length and aggregation sensitivity",
+      "number": 6,
+      "pdf": "Fig6.pdf",
+      "pdf_sha256": "72a6fd3ae6b3d68323086c20bb27675d9cf917738f9d559fc7f5ffbd92df8975",
+      "png": "Fig6.png",
+      "png_dpi": 299.999,
+      "png_pixels": [
+        2254,
+        953
+      ],
+      "png_sha256": "aa4be949aace18ccb4d35d005514a154b9d768eabb9b52bf4bafb661ea1cd9bf"
+    },
+    {
+      "caption": "Nonmonotonic detection across nominal severity",
+      "number": 7,
+      "pdf": "Fig7.pdf",
+      "pdf_sha256": "ecd5a14c8172232c2a5c51a257c191a8998cb3a8d69637799b1bbbc719384670",
+      "png": "Fig7.png",
+      "png_dpi": 299.999,
+      "png_pixels": [
+        2494,
+        1474
+      ],
+      "png_sha256": "4610e4af245fe2859d0470fbf612b74d1d4ba64a89128bcd6ad3b3ff57731b12"
+    },
+    {
+      "caption": "External fault detection, held-out-health false alarms, and the predeclared H1 decision on one dual-three-phase PMSM. Panel (a) shows block detection with turn-stratified record-bootstrap intervals over 48 fault records and 384 ordered blocks. Panel (b) shows pooled false-alarm rates with descriptive 95% Wilson intervals over four held-out healthy loads and 32 blocks, maximum load-specific false-alarm rates, and the H1 limits of 12% for the pooled Wilson upper bound and 15% for the maximum-load rate. Gold marks the observed detection leader and hatched blue marks the frozen proposed detector; intervals are descriptive at the recorded-condition level.",
+      "number": 8,
+      "pdf": "Fig8.pdf",
+      "pdf_sha256": "932334893d21967337f2263b4c77504628c676b71c0a1d2fd835894ca370438c",
+      "png": "Fig8.png",
+      "png_dpi": 299.999,
+      "png_pixels": [
+        3003,
+        1505
+      ],
+      "png_sha256": "988bbf22ff473f0061c5f328ff16e5449e8295f1d20d34776cb66e079d57a8d0"
+    },
+    {
+      "caption": "Frozen Log-Euclidean score and alarm drift over eight ordered 3 s external analysis blocks. Panel (a) shows the median and interquartile range of threshold-normalized scores on a logarithmic scale for 48 fault records and four held-out healthy records per block; the top axis gives approximate median speed. Panel (b) shows empirical block alarm rates. Blocks are ordered operating points rather than independent repeats, and the score and alarm drift are therefore confounded with the rise from approximately 218 to 2,214 rpm.",
+      "number": 9,
+      "pdf": "Fig9.pdf",
+      "pdf_sha256": "5ea337b8ddb98ab136801c0a48eac6e81e22f1b9f0e624b1ca50d5e456063507",
+      "png": "Fig9.png",
+      "png_dpi": 299.999,
+      "png_pixels": [
+        2395,
+        1593
+      ],
+      "png_sha256": "201626b8f76c43b98e0158b75bac7f2f5608fb531ba85ccdc1e1a7d23544e58d"
+    },
+    {
+      "caption": "Frozen-detector alarm fraction across six fixed turn-phase conditions and eight loads on the external motor. Each cell is the fraction of eight ordered 3 s blocks alarmed within one record, so 12.5% represents one of eight blocks. Phase is fixed by turn count (U: 1, 3, 5, and 6; V: 2 and 4), so turn and phase effects are not separately identifiable; blocks within a record are ordered operating points rather than independent repetitions.",
+      "number": 10,
+      "pdf": "Fig10.pdf",
+      "pdf_sha256": "bdd4f9e746f3769266533d758314a02183ccc6c7f14112f424bb21717009b0dc",
+      "png": "Fig10.png",
+      "png_dpi": 299.999,
+      "png_pixels": [
+        2331,
+        1107
+      ],
+      "png_sha256": "deff2dbad385883ee89c4dfafd9fa238cf50340c808aad015abdddf1b48f912d"
+    },
+    {
+      "caption": "Post-reveal single-feature discrimination versus frozen-score contribution on one external motor. Panel (a) shows direction-free AUROC and the absolute matched standardized difference for record-subsystem-block means at the four loads with held-out health; each healthy condition is reused across six fault-turn comparisons. Panel (b) shows winning-window absolute Mahalanobis contribution shares for all fault records and held-out health, using the symmetric cross-term split defined in Section 6.9. The analysis is descriptive, no detector was refit, and no threshold was changed.",
+      "number": 11,
+      "pdf": "Fig11.pdf",
+      "pdf_sha256": "a700bcfd0902d27169d7e1396a634cd713b572c857ff64c20e23f88a3d3cdbe1",
+      "png": "Fig11.png",
+      "png_dpi": 299.999,
+      "png_pixels": [
+        3251,
+        1549
+      ],
+      "png_sha256": "bb714d8253d9630af5a12248355fc1ad8947746be32e7e74884aa758d61e0bf2"
+    }
+  ],
+  "generated": "2026-08-21",
+  "journal": "Journal of Electrical Engineering & Technology",
+  "journal_requirements": {
+    "checked": "2026-08-21",
+    "journal_contact": "jeet@kiee.or.kr",
+    "official_kiee_template_page": "https://www.kiee.or.kr/board/?_0000_method=view&ncode=a008&num=1758&page=1",
+    "springer_fees": "https://link.springer.com/journal/42835/how-to-publish-with-us",
+    "springer_guidelines": "https://link.springer.com/journal/42835/submission-guidelines",
+    "submission_portal": "https://www.editorialmanager.com/eete",
+    "submission_portal_warning_observed": "Site under development. Do not use for live manuscript submission."
+  },
+  "manuscript": {
+    "citations": 34,
+    "figures": 11,
+    "output": "submission\\jeet\\Manuscript_Anonymous.docx",
+    "sha256": "b145bf75d8d46bf02e41f8f879768a7e0eb3b03ad68c7fb2b42ce7303d41ef24",
+    "tables": 3
+  },
+  "pdfs": {
+    "manuscript": {
+      "author": "Anonymous",
+      "citations": 34,
+      "figures": 11,
+      "minimum_extracted_characters_per_page": 692,
+      "output": "submission\\jeet\\Manuscript_Anonymous.pdf",
+      "page_size_points": [
+        612.0,
+        792.0
+      ],
+      "pages": 18,
+      "sha256": "0d3d79b37d56b7e91dc7b6012adaa9487bbfa85d40ae1261db4e6542335200b0",
+      "tables": 3
+    },
+    "supplement": {
+      "author": "Anonymous",
+      "citations": 0,
+      "figures": 0,
+      "minimum_extracted_characters_per_page": 1552,
+      "output": "submission\\jeet\\ESM_1_Supplementary_Material.pdf",
+      "page_size_points": [
+        792.0,
+        612.0
+      ],
+      "pages": 8,
+      "sha256": "770f13afc6d48946a405e08a3334d922d23c39739bad403a5db42b708faa8a05",
+      "tables": 17
+    }
+  },
+  "reproducibility_bundle": {
+    "bytes": 4365120,
+    "files": 381,
+    "sha256": "e2d44cfc0be29dd416bad0355f1cfaa2a98e9717f78b2d2892d5afa854d5fdc6"
+  },
+  "source_audit": {
+    "abstract_words": 247,
+    "cited_bibliography_entries": 34,
+    "figure_citations": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "keywords": 6,
+    "table_citations": [
+      1,
+      2,
+      3
+    ]
+  },
+  "supplement_intermediate": {
+    "citations": 0,
+    "figures": 0,
+    "output": "tmp\\jeet_submission\\ESM_1_Supplementary_Material.docx",
+    "sha256": "0f3d58531a13ae846a60b7d62901b3b82b2743d3b40bcc5c45da51d24b5f9016",
+    "tables": 17
+  },
+  "title_page_sha256": "48452689f044caa5d75dc28a3a06f9a6bd7ae5b1599c27f38aab04946e53974d"
+}

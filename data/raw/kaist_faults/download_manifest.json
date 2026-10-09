@@ -1,0 +1,17 @@
+[
+  {
+    "file": "1.0kW.zip",
+    "bytes": 1770532508,
+    "sha256": "3a7f64626b40cf7be46a220fabe4e62496b0a2700d0919bcf7f1205c97fa15aa"
+  },
+  {
+    "file": "1.5kW.zip",
+    "bytes": 2542599644,
+    "sha256": "5bb090bd7944974a9bcfa9e192e840e61d1bad561172b621670f7f4f8776c524"
+  },
+  {
+    "file": "3.0kW.zip",
+    "bytes": 2660445808,
+    "sha256": "6cfd069bc23e9404b0dd0e9f46da1b773ef41c5370f6c8dbcde99de754008545"
+  }
+]

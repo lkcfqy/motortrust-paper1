@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+tmp/
+.DS_Store
+.idea/
+.vscode/
+# Large raw signals are supplied through this repository Releases.
+data/raw/**
+!data/raw/**/
+!data/raw/**/*.json
+!data/raw/**/*.md
+!data/raw/**/*.txt
+!data/raw/**/*.yaml
+!data/raw/**/*.yml
+!data/raw/.gitkeep
